@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://pebbletemplates.io/sitemap-home.xml</loc>
+        <lastmod>2019-08-19T21:08:36.438</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://pebbletemplates.io/sitemap-javadoc.xml</loc>
+        <lastmod>2019-08-19T21:08:36.443</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://pebbletemplates.io/sitemap-pages.xml</loc>
+        <lastmod>2019-08-19T21:08:36.452</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://pebbletemplates.io/sitemap-wiki.xml</loc>
+        <lastmod>2019-08-19T21:08:36.454</lastmod>
+    </sitemap>
+    
+</sitemapindex>
